@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "summonercore:blocks/essence_extractor_side",
+    "north": "summonercore:blocks/essence_extractor_side",
+    "south": "summonercore:blocks/essence_extractor_side",
+    "east": "summonercore:blocks/essence_extractor_side",
+    "west": "summonercore:blocks/essence_extractor_side",
+    "up": "summonercore:blocks/essence_extractor_top",
+    "down": "summonercore:blocks/essence_extractor_bottom"
+  }
+}
